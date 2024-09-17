@@ -35,7 +35,7 @@ Contains Solutions and Notes(stay tuned :D) for the [Machine Learning Specializa
 
 <br/>
 
-Week 3 coming soon
+Week 3 coming soon...
 
 
 
