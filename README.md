@@ -37,7 +37,7 @@ Contains Solutions and Notes(stay tuned :D) for the [Machine Learning Specializa
 
 Week 3 coming soon...
 
-
+- [Week 3](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203) 
 
 
  
