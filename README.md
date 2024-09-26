@@ -35,8 +35,6 @@ Contains Solutions and Notes(stay tuned :D) for the [Machine Learning Specializa
 
 <br/>
 
-Week 3 coming soon...
-
 - [Week 3](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203)
 
     - [Practice quiz: Cost function for logistic regression](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/Graded%20Quiz%20-%20Cost%20function%20for%20logistic%20regression)
@@ -56,5 +54,5 @@ Week 3 coming soon...
     - [Programming Assignment](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1W3A1)
       - [Logistic Regression](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+#### [Certificate Of Completion](https://coursera.org/share/bd8b1509ac9f33d740ddc706613571c8)
  
