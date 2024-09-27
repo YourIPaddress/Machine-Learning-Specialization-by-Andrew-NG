@@ -55,4 +55,37 @@ Contains Solutions and Notes(stay tuned :D) for the [Machine Learning Specializa
       - [Logistic Regression](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C1%20-%20Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification/Week%203/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
 #### [Certificate Of Completion](https://coursera.org/share/bd8b1509ac9f33d740ddc706613571c8)
- 
+
+<br/>
+
+## Course 2 : [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+
+- [Week 1](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201)
+    - [Practice quiz: Neural networks intuition](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Graded%20Quiz%20-%20Neural%20Network%20intuition)
+    - [Practice quiz: Neural network model](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Graded%20Quiz%20-%20Neural%20Network%20Model)
+    - [Practice quiz: TensorFlow implementation](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Graded%20Quiz%20-%20Tensorflow%20Implementation)
+    - [Practice quiz : Neural Networks Implementation in Numpy](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Graded%20Quiz%20-%20Neural%20network%20implementation%20in%20python)
+    - [Optional Labs](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Optional%20Labs)
+      - [Neurons and Layers](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Optional%20Labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+      - [Coffee Roasting](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Optional%20Labs/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+      - [Coffee Roasting Using Numpy](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/Optional%20Labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+    - [Programming Assignment](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/C2W1A1)
+      - [Neural Networks for Binary Classification](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%201/C2W1A1/C2_W1_Assignment.ipynb)
+  
+
+  <br/>
+
+- [Week 2](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202)
+    - [Practice quiz : Neural Networks Training](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Graded%20Quiz%20-%20Neural%20Network%20training)
+    - [Practice quiz : Activation Functions](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Graded%20Quiz%20-%20Activation%20functions)
+    - [Practice quiz : Multiclass Classification](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Graded%20Quiz%20-%20Multiclass%20classification)
+    - [Practice quiz : Additional Neural Networks Concepts](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Graded%20Quiz%20-%20Additional%20Neural%20Network%20Concepts)
+    - [Optional Labs](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Optional%20Labs)
+        - [RElu](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Optional%20Labs/C2_W2_Relu.ipynb)
+        - [Softmax](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Optional%20Labs/C2_W2_SoftMax.ipynb)
+        - [Multiclass Classification](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/Optional%20Labs/C2_W2_Multiclass_TF.ipynb)
+    - [Programming Assignment](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/C2W2A1)
+      - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/C2W2A1/C2_W2_Assignment.ipynb)
+    
+
+<br/>
