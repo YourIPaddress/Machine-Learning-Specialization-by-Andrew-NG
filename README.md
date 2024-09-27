@@ -87,5 +87,6 @@ Contains Solutions and Notes(stay tuned :D) for the [Machine Learning Specializa
     - [Programming Assignment](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/C2W2A1)
       - [Neural Networks For Handwritten Digit Recognition - Multiclass](https://github.com/YourIPaddress/Machine-Learning-Specialization-by-Andrew-NG/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/Week%202/C2W2A1/C2_W2_Assignment.ipynb)
     
-
 <br/>
+
+Week 3 coming soon...
